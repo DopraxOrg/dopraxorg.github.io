@@ -5,6 +5,6 @@ Visual explainers on infrastructure, protocols, and the quieter mechanics of how
 
 A project by Doprax.
 
-- [History of VPN:](https://dopraxorg.github.io/history-of-vpn/)
+- [History of VPN](https://dopraxorg.github.io/history-of-vpn/)
 
-- [Kinds of VPNs:]([URL](https://dopraxorg.github.io/types-of-vpn/))
+- [Kinds of VPNs](https://dopraxorg.github.io/types-of-vpn/)
